@@ -43,6 +43,14 @@ As per instruction I have uploaded the java course module file and shared the gi
    * Hash Set
    * Tree Map
    * Tree Set
+
 ## 9.**Collection 2**
    * Frequency hash Map
+   * Parser
+   * Array Deque
+   * Hash Map
+   * Usage of String Buffer
+
+## 10.**ioSerilaisation**
+    * 
    
