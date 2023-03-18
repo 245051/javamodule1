@@ -36,3 +36,13 @@ As per instruction I have uploaded the java course module file and shared the gi
    * Functional Interface
    * Streams
    * Bi Consumer test,Consumer Test,Functional Test,Optional test,Prediate test
+  
+## 8.**Collection**
+   * ArrayList
+   * HashMap
+   * Hash Set
+   * Tree Map
+   * Tree Set
+## 9.**Collection 2**
+   * Frequency hash Map
+   
