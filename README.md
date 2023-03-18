@@ -22,6 +22,17 @@ As per instruction I have uploaded the java course module file and shared the gi
    * Static Keyword /Static Function
    * Composition
    * Polymorphism
-   
+
 ## 5.**OOPS DAY 5.**
+   * Parent - Subclass
+   * Usage of final 
+   * String and various String Function
+
+## 6.**OOPS DAY 6.**
    * Exception -- try - catch 
+
+## 7.**JAVA 8**
+   * Lambda Function
+   * Functional Interface
+   * Streams
+   * Bi Consumer test,Consumer Test,Functional Test,Optional test,Prediate test
