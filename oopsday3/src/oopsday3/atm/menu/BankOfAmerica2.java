@@ -37,14 +37,14 @@ public class BankOfAmerica2 implements Banking2 {
 	}
 
 	@Override
-	public double withdraw(double amount, int actno) {
+	public double withdraw(double amount, int actno) throws InsufficientFundsxception {
 		// TODO Auto-generated method stub
 		double tempBal = 0;
 		for (int i = 0; i < accounts.length; i++) {
 			if (accounts[i].getActno() == actno) {
 				if(accounts[i].getBalance()<amount)
 				{
-					throws new InsufficientFundsxception("Insufficient Fund");
+					throw new InsufficientFundsxception("Insufficient Fund");
 				}
 				tempBal = accounts[i].getBalance();
 				tempBal -= amount;
